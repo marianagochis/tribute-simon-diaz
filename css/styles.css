@@ -1,0 +1,44 @@
+body {
+  background-color: #000;
+  border-color: white;
+  border-width: 38px;
+  border-style: solid;
+  
+}
+
+.image-size {
+  width: 800px;
+  display: block;
+  margin: 0 auto;
+}
+.image-border {
+  border-color: grey;
+  border-width: 20px;
+  border-style: solid;
+  }
+
+h1 {
+  font-size: 50px;
+  font-family: Questrial;
+  color: grey;
+  text-align: center;
+  }
+h2 {font-size: 40px;
+  font-family: Questrial;
+  color: white;
+  text-align: center;
+  }
+h3   {font-size: 20px;
+  font-family: Questrial;
+  color: white;
+  text-align: center;
+  }
+p , li {font-size: 20px;
+  font-family: Questrial;
+  color: gray;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.body-margin {
+  margin: 35px;
+}
